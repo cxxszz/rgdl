@@ -1,0 +1,3 @@
+"""
+finding optimum via enumeration
+"""
